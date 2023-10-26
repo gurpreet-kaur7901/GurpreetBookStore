@@ -16,3 +16,8 @@ download bootstrap.css
 rename the original file bootstrap.css to bootstrap1.css
 
 3:25PM
+replace the code site.css
+change the _layout.cshtml
+
+3:49PM
+Run the website, everything fine;)
