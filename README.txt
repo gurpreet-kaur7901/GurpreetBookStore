@@ -21,3 +21,9 @@ change the _layout.cshtml
 
 3:49PM
 Run the website, everything fine;)
+
+4:00PM
+modify Layout.cshtml
+add a dropdown list named as content management
+run code!!! Everything goes well:)
+great relief!!
