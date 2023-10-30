@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurpreetBookStore", "GurpreetBookStore.csproj", "{0AD062FC-12AD-4332-996B-39CE3A94216B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GurpreetBookStore", "GurpreetBookStore.csproj", "{0AD062FC-12AD-4332-996B-39CE3A94216B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurpreetBooks.DataAccess", "GurpreetBooks.DataAccess\GurpreetBooks.DataAccess.csproj", "{C799B8C3-AB22-4C42-A8C8-D4EC80E9A907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurpreetBooks.Models", "GurpreetBooks.Models\GurpreetBooks.Models.csproj", "{F0C9FA38-B6C6-4BA7-8739-CB2FAF1A93B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurpreetBooks.Utility", "GurpreetBooks.Utility\GurpreetBooks.Utility.csproj", "{46AE5C32-B3DE-40BC-AFD9-FE725FDDC513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{0AD062FC-12AD-4332-996B-39CE3A94216B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AD062FC-12AD-4332-996B-39CE3A94216B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AD062FC-12AD-4332-996B-39CE3A94216B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C799B8C3-AB22-4C42-A8C8-D4EC80E9A907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C799B8C3-AB22-4C42-A8C8-D4EC80E9A907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C799B8C3-AB22-4C42-A8C8-D4EC80E9A907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C799B8C3-AB22-4C42-A8C8-D4EC80E9A907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C9FA38-B6C6-4BA7-8739-CB2FAF1A93B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C9FA38-B6C6-4BA7-8739-CB2FAF1A93B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C9FA38-B6C6-4BA7-8739-CB2FAF1A93B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C9FA38-B6C6-4BA7-8739-CB2FAF1A93B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AE5C32-B3DE-40BC-AFD9-FE725FDDC513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AE5C32-B3DE-40BC-AFD9-FE725FDDC513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AE5C32-B3DE-40BC-AFD9-FE725FDDC513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AE5C32-B3DE-40BC-AFD9-FE725FDDC513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
